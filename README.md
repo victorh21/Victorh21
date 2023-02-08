@@ -32,8 +32,7 @@
 
 <div align="center">
   <a href="https://github.com/victorh21">
-   
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorh21&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  </a>
- 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorh21&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=252537&locale=en&layout=compact" alt="victorh21" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorh21&show_icons=true&theme=dark&locale=en" alt="victorh21" /></p>
 </div>
